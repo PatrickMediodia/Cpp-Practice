@@ -50,3 +50,19 @@ int main()
     bankAccount.getBalance();
     return 0;
 }
+
+/*
+Difference between Stuct and Class
+
+Struct -> Structure
+    - methods and variables are public by default
+    - legacy feature from C which group variables together.
+      C does not have classes, it is to maintain compatability.
+    - usually used without methods as a distinction between them
+
+    - plain old data
+
+Class
+   - methods and variables are private by default
+   - if inheritance is used, usually classes are used
+*/
