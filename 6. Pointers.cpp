@@ -3,8 +3,8 @@ using namespace std;
 
 void celebrateBirthday(int* age);
 
-//&variable -> get address of this variable
-//*address -> get value of this pointer
+//&variable -> get address of this variable (Address of { variable } operation)
+//*address -> get value of this pointer (Dereferencing a pointer)
 //DataType* variable -> stores a pointer of that data type
 //arrayVariable -> if you print this, it is the start of the array address
 
